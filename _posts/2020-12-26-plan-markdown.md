@@ -6,11 +6,13 @@ tags: [plan]
 comments: true
 ---
 
-This is a demo post to show you how to write blog posts with markdown.  I strongly encourage you to [take 5 minutes to learn how to write in markdown](https://markdowntutorial.com/) - it'll teach you how to transform regular text into bold/italics/headings/tables/etc.
+> 在最初“选择人生道路”的时候，没谁一开始通透了解自己的本性，了解周边环境并预见环境的变化。我们一开始不可能通透了解自己的本性，这不在于我们还不够聪明，而在于我们的本性在一开始不够具体，本性有待在盘根错节的实践中向我们逐渐清晰地显现。我们大概可以在这个意义上去理解歌德说他的浮士德是一系列越来越纯粹或纯洁（rein）的努力。我把这个纯粹或纯洁理解为：自身通透。我以为，这种自身通透是phronesis最核心的含义——洞明自己行在何处，浑然一体地洞明自己和自己所行之路，从而能贴切着自己的真实天性行路，把自己大致保持在天性所指的道路上。
+>
+> ```
+> <p align="right">陈嘉映</p>
+> ```
 
-> 生命是两个永恒死亡之间的短暂插曲
 
-**Here is some bold text**
 
 ## Here is a secondary heading
 
